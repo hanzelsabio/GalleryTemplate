@@ -388,7 +388,7 @@ h6 {
 .gallery .gallery-item {
   position: relative;
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: 0px;
 }
 
 .gallery .gallery-item img {
